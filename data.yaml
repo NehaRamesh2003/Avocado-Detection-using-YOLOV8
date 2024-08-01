@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/YOLOV8/avac-data/train/images
+val: /content/drive/MyDrive/YOLOV8/avac-data/valid/images
+
+nc: 1
+names: ['avocado']
